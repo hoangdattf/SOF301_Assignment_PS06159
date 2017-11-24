@@ -1,0 +1,356 @@
+/* Styles for dialog window ,#small-dialog8,#small-dialog9,#small-dialog10,#small-dialog11,#small-dialog12,#small-dialog13,#small-dialog14,#small-dialog15,#small-dialog16,#small-dialog17,#small-dialog18,#small-dialog19,#small-dialog20,#small-dialog21,#small-dialog22,#small-dialog23,#small-dialog24,#small-dialog25,#small-dialog26,#small-dialog27,#small-dialog28,#small-dialog29,#small-dialog30,#small-dialog31,#small-dialog32,#small-dialog33,#small-dialog34,#small-dialog35,#small-dialog36,#small-dialog37,#small-dialog38,#small-dialog39,#small-dialog40,#small-dialog41,#small-dialog42,#small-dialog43,#small-dialog44,#small-dialog45,#small-dialog46,#small-dialog47,#small-dialog48,#small-dialog49,#small-dialog50,#small-dialog51,#small-dialog52,#small-dialog53,#small-dialog54,#small-dialog55,#small-dialog56,#small-dialog57,#small-dialog58,#small-dialog59,#small-dialog60,#small-dialog61,#small-dialog62,#small-dialog63,#small-dialog64,#small-dialog65,#small-dialog66,#small-dialog67,#small-dialog68,#small-dialog69,#small-dialog70,#small-dialog71,#small-dialog72,#small-dialog73,#small-dialog74,#small-dialog75,#small-dialog76,#small-dialog77,#small-dialog78,#small-dialog79,#small-dialog80*/
+/* ,.my-mfp-zoom-in.mfp-ready #small-dialog8, .my-mfp-zoom-in.mfp-ready #small-dialog9, .my-mfp-zoom-in.mfp-ready #small-dialog10, .my-mfp-zoom-in.mfp-ready #small-dialog11,.my-mfp-zoom-in.mfp-ready #small-dialog12, .my-mfp-zoom-in.mfp-ready #small-dialog13,.my-mfp-zoom-in.mfp-ready #small-dialog14, .my-mfp-zoom-in.mfp-ready #small-dialog15,.my-mfp-zoom-in.mfp-ready #small-dialog16, .my-mfp-zoom-in.mfp-ready #small-dialog17,.my-mfp-zoom-in.mfp-ready #small-dialog18, .my-mfp-zoom-in.mfp-ready #small-dialog19,.my-mfp-zoom-in.mfp-ready #small-dialog20, .my-mfp-zoom-in.mfp-ready #small-dialog21,.my-mfp-zoom-in.mfp-ready #small-dialog22, .my-mfp-zoom-in.mfp-ready #small-dialog23,.my-mfp-zoom-in.mfp-ready #small-dialog24, .my-mfp-zoom-in.mfp-ready #small-dialog25,.my-mfp-zoom-in.mfp-ready #small-dialog26, .my-mfp-zoom-in.mfp-ready #small-dialog27,.my-mfp-zoom-in.mfp-ready #small-dialog28, .my-mfp-zoom-in.mfp-ready #small-dialog29,.my-mfp-zoom-in.mfp-ready #small-dialog30, .my-mfp-zoom-in.mfp-ready #small-dialog31,.my-mfp-zoom-in.mfp-ready #small-dialog32, .my-mfp-zoom-in.mfp-ready #small-dialog33,.my-mfp-zoom-in.mfp-ready #small-dialog34, .my-mfp-zoom-in.mfp-ready #small-dialog35,.my-mfp-zoom-in.mfp-ready #small-dialog36, .my-mfp-zoom-in.mfp-ready #small-dialog37,.my-mfp-zoom-in.mfp-ready #small-dialog38, .my-mfp-zoom-in.mfp-ready #small-dialog39,.my-mfp-zoom-in.mfp-ready #small-dialog40, .my-mfp-zoom-in.mfp-ready #small-dialog41,.my-mfp-zoom-in.mfp-ready #small-dialog42, .my-mfp-zoom-in.mfp-ready #small-dialog43,.my-mfp-zoom-in.mfp-ready #small-dialog44, .my-mfp-zoom-in.mfp-ready #small-dialog45,.my-mfp-zoom-in.mfp-ready #small-dialog46, .my-mfp-zoom-in.mfp-ready #small-dialog47,.my-mfp-zoom-in.mfp-ready #small-dialog48, .my-mfp-zoom-in.mfp-ready #small-dialog49,.my-mfp-zoom-in.mfp-ready #small-dialog50, .my-mfp-zoom-in.mfp-ready #small-dialog51,.my-mfp-zoom-in.mfp-ready #small-dialog52, .my-mfp-zoom-in.mfp-ready #small-dialog53,.my-mfp-zoom-in.mfp-ready #small-dialog54, .my-mfp-zoom-in.mfp-ready #small-dialog55,.my-mfp-zoom-in.mfp-ready #small-dialog56, .my-mfp-zoom-in.mfp-ready #small-dialog57,.my-mfp-zoom-in.mfp-ready #small-dialog58, .my-mfp-zoom-in.mfp-ready #small-dialog59,.my-mfp-zoom-in.mfp-ready #small-dialog60, .my-mfp-zoom-in.mfp-ready #small-dialog61,.my-mfp-zoom-in.mfp-ready #small-dialog62, .my-mfp-zoom-in.mfp-ready #small-dialog63,.my-mfp-zoom-in.mfp-ready #small-dialog64, .my-mfp-zoom-in.mfp-ready #small-dialog65,.my-mfp-zoom-in.mfp-ready #small-dialog66, .my-mfp-zoom-in.mfp-ready #small-dialog67,.my-mfp-zoom-in.mfp-ready #small-dialog68, .my-mfp-zoom-in.mfp-ready #small-dialog69,.my-mfp-zoom-in.mfp-ready #small-dialog70, .my-mfp-zoom-in.mfp-ready #small-dialog71,.my-mfp-zoom-in.mfp-ready #small-dialog72, .my-mfp-zoom-in.mfp-ready #small-dialog73,.my-mfp-zoom-in.mfp-ready #small-dialog74, .my-mfp-zoom-in.mfp-ready #small-dialog75,.my-mfp-zoom-in.mfp-ready #small-dialog76, .my-mfp-zoom-in.mfp-ready #small-dialog77,.my-mfp-zoom-in.mfp-ready #small-dialog78, .my-mfp-zoom-in.mfp-ready #small-dialog79, .my-mfp-zoom-in.mfp-ready #small-dialog80*/
+/* */
+/* Styles for dialog window */
+#small-dialog,#small-dialog1,#small-dialog2,#small-dialog3,#small-dialog4,#small-dialog5,#small-dialog6,#small-dialog7,#small-dialog8,#small-dialog9,#small-dialog10,#small-dialog11,#small-dialog12,#small-dialog13,#small-dialog14,#small-dialog15,#small-dialog16,#small-dialog17,#small-dialog18,#small-dialog19,#small-dialog20,#small-dialog21,#small-dialog22,#small-dialog23,#small-dialog24,#small-dialog25,#small-dialog26,#small-dialog27,#small-dialog28,#small-dialog29,#small-dialog30,#small-dialog31,#small-dialog32,#small-dialog33,#small-dialog34,#small-dialog35,#small-dialog36,#small-dialog37,#small-dialog38,#small-dialog39,#small-dialog40,#small-dialog41,#small-dialog42,#small-dialog43,#small-dialog44,#small-dialog45,#small-dialog46,#small-dialog47,#small-dialog48,#small-dialog49,#small-dialog50,#small-dialog51,#small-dialog52,#small-dialog53,#small-dialog54,#small-dialog55,#small-dialog56,#small-dialog57,#small-dialog58,#small-dialog59,#small-dialog60,#small-dialog61,#small-dialog62,#small-dialog63,#small-dialog64,#small-dialog65,#small-dialog66,#small-dialog67,#small-dialog68,#small-dialog69,#small-dialog70,#small-dialog71,#small-dialog72,#small-dialog73,#small-dialog74,#small-dialog75,#small-dialog76,#small-dialog77,#small-dialog78,#small-dialog79,#small-dialog80{
+    background: #ffffff;
+    text-align: left;
+    max-width: 900px;
+    margin: 40px auto;
+    position: relative; 
+}
+#small-dialog-it,#small-dialog-in,#small-dialog-fr,#small-dialog-sh,#small-dialog-sf,#small-dialog-su,#small-dialog-me,#small-dialog-ch,#small-dialog-pi,#small-dialog-am {
+    background: white;
+    padding:0px;
+    text-align: left;
+    max-width: 450px;
+    margin: 40px auto;
+    position: relative;
+    text-align:center;
+}
+a.play-icon.popup-with-zoom-anim img:hover {
+    opacity: 0.5;
+    transition:0.5s all;
+    -webkit-transition:0.5s all;
+    -o-transition:0.5s all;
+    -moz-transition:0.5s all;
+    -ms-transition:0.5s all;
+}
+.portfolio-items{
+    text-align:center;
+    margin:0 auto;
+}
+.portfolio-items img{
+    width:100%;
+}
+.portfolio-items h4{
+    margin:1em 0;
+    font-size:25px;
+    color:#a63d56;
+}
+.portfolio-items p{
+    text-align:justify;
+}
+/**
+
+/**
+ * Fade-zoom animation for first dialog
+ */
+
+/* start state */
+.my-mfp-zoom-in #small-dialog,.my-mfp-zoom-in #small-dialog1,.my-mfp-zoom-in #small-dialog2,.my-mfp-zoom-in #small-dialog3,.my-mfp-zoom-in #small-dialog4,.my-mfp-zoom-in #small-dialog5,.my-mfp-zoom-in #small-dialog6,.my-mfp-zoom-in #small-dialog7,.my-mfp-zoom-in #small-dialog8,.my-mfp-zoom-in #small-dialog9,.my-mfp-zoom-in #small-dialog10,.my-mfp-zoom-in #small-dialog11,.my-mfp-zoom-in #small-dialog12,.my-mfp-zoom-in #small-dialog13,.my-mfp-zoom-in #small-dialog14,.my-mfp-zoom-in #small-dialog15,.my-mfp-zoom-in #small-dialog16,.my-mfp-zoom-in #small-dialog17,.my-mfp-zoom-in #small-dialog18,.my-mfp-zoom-in #small-dialog19,.my-mfp-zoom-in #small-dialog20,.my-mfp-zoom-in #small-dialog21,.my-mfp-zoom-in #small-dialog22,.my-mfp-zoom-in #small-dialog23,.my-mfp-zoom-in #small-dialog24,.my-mfp-zoom-in #small-dialog25,.my-mfp-zoom-in #small-dialog26,.my-mfp-zoom-in #small-dialog27,.my-mfp-zoom-in #small-dialog28,.my-mfp-zoom-in #small-dialog29,.my-mfp-zoom-in #small-dialog30,.my-mfp-zoom-in #small-dialog31,.my-mfp-zoom-in #small-dialog32,.my-mfp-zoom-in #small-dialog33,.my-mfp-zoom-in #small-dialog34,.my-mfp-zoom-in #small-dialog35,.my-mfp-zoom-in #small-dialog36,.my-mfp-zoom-in #small-dialog37,.my-mfp-zoom-in #small-dialog38,.my-mfp-zoom-in #small-dialog39,.my-mfp-zoom-in #small-dialog40,.my-mfp-zoom-in #small-dialog41,.my-mfp-zoom-in #small-dialog42,.my-mfp-zoom-in #small-dialog43,.my-mfp-zoom-in #small-dialog44,.my-mfp-zoom-in #small-dialog45,.my-mfp-zoom-in #small-dialog46,.my-mfp-zoom-in #small-dialog47,.my-mfp-zoom-in #small-dialog48,.my-mfp-zoom-in #small-dialog49,.my-mfp-zoom-in #small-dialog50,.my-mfp-zoom-in #small-dialog51,.my-mfp-zoom-in #small-dialog52,.my-mfp-zoom-in #small-dialog53,.my-mfp-zoom-in #small-dialog54,.my-mfp-zoom-in #small-dialog55,.my-mfp-zoom-in #small-dialog56,.my-mfp-zoom-in #small-dialog57,.my-mfp-zoom-in #small-dialog58,.my-mfp-zoom-in #small-dialog59,.my-mfp-zoom-in #small-dialog60,.my-mfp-zoom-in #small-dialog61,.my-mfp-zoom-in #small-dialog62,.my-mfp-zoom-in #small-dialog63,.my-mfp-zoom-in #small-dialog64,.my-mfp-zoom-in #small-dialog65,.my-mfp-zoom-in #small-dialog66,.my-mfp-zoom-in #small-dialog67,.my-mfp-zoom-in #small-dialog68,.my-mfp-zoom-in #small-dialog69,.my-mfp-zoom-in #small-dialog70,.my-mfp-zoom-in #small-dialog71,.my-mfp-zoom-in #small-dialog72,.my-mfp-zoom-in #small-dialog73,.my-mfp-zoom-in #small-dialog74,.my-mfp-zoom-in #small-dialog75,.my-mfp-zoom-in #small-dialog76,.my-mfp-zoom-in #small-dialog77,.my-mfp-zoom-in #small-dialog78,.my-mfp-zoom-in #small-dialog79,.my-mfp-zoom-in #small-dialog80 {
+    opacity: 0;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    -webkit-transform: scale(0.8);
+    -moz-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    transform: scale(0.8);
+}
+/* animate in */
+.my-mfp-zoom-in.mfp-ready #small-dialog,.my-mfp-zoom-in.mfp-ready #small-dialog1,.my-mfp-zoom-in.mfp-ready #small-dialog2,.my-mfp-zoom-in.mfp-ready #small-dialog3,.my-mfp-zoom-in.mfp-ready #small-dialog4,.my-mfp-zoom-in.mfp-ready #small-dialog5,.my-mfp-zoom-in.mfp-ready #small-dialog6,.my-mfp-zoom-in.mfp-ready #small-dialog7, .my-mfp-zoom-in.mfp-ready #small-dialog8, .my-mfp-zoom-in.mfp-ready #small-dialog9, .my-mfp-zoom-in.mfp-ready #small-dialog10, .my-mfp-zoom-in.mfp-ready #small-dialog11,.my-mfp-zoom-in.mfp-ready #small-dialog12, .my-mfp-zoom-in.mfp-ready #small-dialog13,.my-mfp-zoom-in.mfp-ready #small-dialog14, .my-mfp-zoom-in.mfp-ready #small-dialog15,.my-mfp-zoom-in.mfp-ready #small-dialog16, .my-mfp-zoom-in.mfp-ready #small-dialog17,.my-mfp-zoom-in.mfp-ready #small-dialog18, .my-mfp-zoom-in.mfp-ready #small-dialog19,.my-mfp-zoom-in.mfp-ready #small-dialog20, .my-mfp-zoom-in.mfp-ready #small-dialog21,.my-mfp-zoom-in.mfp-ready #small-dialog22, .my-mfp-zoom-in.mfp-ready #small-dialog23,.my-mfp-zoom-in.mfp-ready #small-dialog24, .my-mfp-zoom-in.mfp-ready #small-dialog25,.my-mfp-zoom-in.mfp-ready #small-dialog26, .my-mfp-zoom-in.mfp-ready #small-dialog27,.my-mfp-zoom-in.mfp-ready #small-dialog28, .my-mfp-zoom-in.mfp-ready #small-dialog29,.my-mfp-zoom-in.mfp-ready #small-dialog30, .my-mfp-zoom-in.mfp-ready #small-dialog31,.my-mfp-zoom-in.mfp-ready #small-dialog32, .my-mfp-zoom-in.mfp-ready #small-dialog33,.my-mfp-zoom-in.mfp-ready #small-dialog34, .my-mfp-zoom-in.mfp-ready #small-dialog35,.my-mfp-zoom-in.mfp-ready #small-dialog36, .my-mfp-zoom-in.mfp-ready #small-dialog37,.my-mfp-zoom-in.mfp-ready #small-dialog38, .my-mfp-zoom-in.mfp-ready #small-dialog39,.my-mfp-zoom-in.mfp-ready #small-dialog40, .my-mfp-zoom-in.mfp-ready #small-dialog41,.my-mfp-zoom-in.mfp-ready #small-dialog42, .my-mfp-zoom-in.mfp-ready #small-dialog43,.my-mfp-zoom-in.mfp-ready #small-dialog44, .my-mfp-zoom-in.mfp-ready #small-dialog45,.my-mfp-zoom-in.mfp-ready #small-dialog46, .my-mfp-zoom-in.mfp-ready #small-dialog47,.my-mfp-zoom-in.mfp-ready #small-dialog48, .my-mfp-zoom-in.mfp-ready #small-dialog49,.my-mfp-zoom-in.mfp-ready #small-dialog50, .my-mfp-zoom-in.mfp-ready #small-dialog51,.my-mfp-zoom-in.mfp-ready #small-dialog52, .my-mfp-zoom-in.mfp-ready #small-dialog53,.my-mfp-zoom-in.mfp-ready #small-dialog54, .my-mfp-zoom-in.mfp-ready #small-dialog55,.my-mfp-zoom-in.mfp-ready #small-dialog56, .my-mfp-zoom-in.mfp-ready #small-dialog57,.my-mfp-zoom-in.mfp-ready #small-dialog58, .my-mfp-zoom-in.mfp-ready #small-dialog59,.my-mfp-zoom-in.mfp-ready #small-dialog60, .my-mfp-zoom-in.mfp-ready #small-dialog61,.my-mfp-zoom-in.mfp-ready #small-dialog62, .my-mfp-zoom-in.mfp-ready #small-dialog63,.my-mfp-zoom-in.mfp-ready #small-dialog64, .my-mfp-zoom-in.mfp-ready #small-dialog65,.my-mfp-zoom-in.mfp-ready #small-dialog66, .my-mfp-zoom-in.mfp-ready #small-dialog67,.my-mfp-zoom-in.mfp-ready #small-dialog68, .my-mfp-zoom-in.mfp-ready #small-dialog69,.my-mfp-zoom-in.mfp-ready #small-dialog70, .my-mfp-zoom-in.mfp-ready #small-dialog71,.my-mfp-zoom-in.mfp-ready #small-dialog72, .my-mfp-zoom-in.mfp-ready #small-dialog73,.my-mfp-zoom-in.mfp-ready #small-dialog74, .my-mfp-zoom-in.mfp-ready #small-dialog75,.my-mfp-zoom-in.mfp-ready #small-dialog76, .my-mfp-zoom-in.mfp-ready #small-dialog77,.my-mfp-zoom-in.mfp-ready #small-dialog78, .my-mfp-zoom-in.mfp-ready #small-dialog79, .my-mfp-zoom-in.mfp-ready #small-dialog80{
+    opacity: 1;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+    padding: 30px 30px;
+}
+/* animate out */
+.my-mfp-zoom-in.mfp-removing #small-dialog,.my-mfp-zoom-in.mfp-removing #small-dialog1,.my-mfp-zoom-in.mfp-removing #small-dialog2,.my-mfp-zoom-in.mfp-removing #small-dialog3,,.my-mfp-zoom-in.mfp-removing #small-dialog4,.my-mfp-zoom-in.mfp-removing #small-dialog5,.my-mfp-zoom-in.mfp-removing #small-dialog6,.my-mfp-zoom-in.mfp-removing #small-dialog7 {
+    -webkit-transform: scale(0.8);
+    -moz-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    transform: scale(0.8);
+    opacity: 0;
+}
+/* Dark overlay, start state */
+.my-mfp-zoom-in.mfp-bg {
+    opacity: 0;
+    -webkit-transition: opacity 0.3s ease-out;
+    -moz-transition: opacity 0.3s ease-out;
+    -o-transition: opacity 0.3s ease-out;
+    transition: opacity 0.3s ease-out;
+}
+/* animate in */
+.my-mfp-zoom-in.mfp-ready.mfp-bg {
+    opacity: 0.8;
+}
+/* animate out */
+.my-mfp-zoom-in.mfp-removing.mfp-bg {
+    opacity: 0;
+}
+/**
+/* Magnific Popup CSS */
+.mfp-bg {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1042;
+    overflow: hidden;
+    position: fixed;
+    background: #0b0b0b;
+    opacity: 0.8;
+    filter: alpha(opacity=80); }
+
+.mfp-wrap {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1043;
+    position: fixed;
+    outline: none !important;
+    -webkit-backface-visibility: hidden; }
+
+.mfp-container {
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    padding: 0 8px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box; }
+
+.mfp-container:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle; }
+
+.mfp-align-top .mfp-container:before {
+    display: none; }
+
+.mfp-content {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 auto;
+    text-align: left;
+    z-index: 1045; }
+
+.mfp-inline-holder .mfp-content,
+.mfp-ajax-holder .mfp-content {
+    width: 100%;
+    cursor: auto; }
+
+.mfp-ajax-cur {
+    cursor: progress; }
+
+.mfp-zoom-out-cur,
+.mfp-zoom-out-cur .mfp-image-holder .mfp-close {
+    cursor: -moz-zoom-out;
+    cursor: -webkit-zoom-out;
+    cursor: zoom-out; }
+.mfp-zoom {
+    cursor: pointer;
+    cursor: -webkit-zoom-in;
+    cursor: -moz-zoom-in;
+    cursor: zoom-in; }
+
+.mfp-auto-cursor .mfp-content {
+    cursor: auto; }
+
+.mfp-close,
+.mfp-arrow,
+.mfp-preloader,
+.mfp-counter {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none; }
+
+.mfp-loading.mfp-figure {
+    display: none; }
+
+.mfp-hide {
+    display: none !important; }
+.mfp-content iframe{
+    width:100%;
+    min-height:500px;
+}
+.mfp-preloader {
+    color: #cccccc;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    text-align: center;
+    margin-top: -0.8em;
+    left: 8px;
+    right: 8px;
+    z-index: 1044; }
+
+.mfp-preloader a {
+    color: #cccccc; }
+
+.mfp-preloader a:hover {
+    color: white; }
+
+.mfp-s-ready .mfp-preloader {
+    display: none; }
+
+.mfp-s-error .mfp-content {
+    display: none; }
+
+button.mfp-close,
+button.mfp-arrow {
+    overflow: visible;
+    cursor: pointer;
+    border: 0;
+    background:#FFF;
+    -webkit-appearance: none;
+    display: block;
+    padding: 0;
+    z-index: 1046; }
+button::-moz-focus-inner {
+    padding: 0;
+    border: 0; }
+
+.mfp-close {
+    width: 23px;
+    height: 30px;
+    line-height: 25px;
+    position: absolute;
+    left: -40px;
+    top: -30px;
+    text-decoration: none;
+    text-align: center;
+    padding: 0 0 18px 10px;
+    color: white !important;
+    font-style: normal;
+    font-size: 45px;
+    outline: none; 
+}
+.mfp-close:hover, .mfp-close:focus {
+    opacity: 1; }
+
+.mfp-close-btn-in .mfp-close {
+    color: #333333; 
+    background: none;
+}
+
+.mfp-image-holder .mfp-close,
+.mfp-iframe-holder .mfp-close {
+    color: white;
+    right: -6px;
+    text-align: right;
+    padding-right: 6px;
+    width: 100%; 
+}
+.login h3,.signup h3{
+    margin:1em 0;
+    color: #a63d56;
+}
+.login input[type="text"],.login input[type="password"]{
+    width:90%;
+    padding:5px;
+    margin:3px 0;x
+    border: 1px solid #a63d56;
+    outline: none !important;
+}
+.signup input[type="text"]{
+    width: 44.5%;
+    padding: 5px;
+    margin: 10px 0;
+    outline: none;
+    background: #EBEBEB;
+    border: solid 1px #222;
+}
+.signup input.email[type="text"],.signup input[type="password"]{
+    width: 90%;
+    padding: 5px;
+    margin: 10px 0;
+    outline: none;
+    background: #EBEBEB;
+    border: solid 1px #222;
+}
+.login input[type="submit"],.signup input[type="submit"]{
+    background: #347083;
+    border: 0px;
+    padding: 5px 10px;
+    margin: 10px 10px;
+    outline: none;
+    font-size: 18px;
+    color: #fff;
+    text-transform: uppercase;
+    width: 17%;	
+    -webkit-appearance: none;
+}
+.login input[type="submit"]:hover,.signup input[type="submit"]:hover{
+    background:#163035;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+@media all and (max-width:640px){
+    #small-dialog, #small-dialog2 { 
+        max-width: 420px; 
+    }
+}
+@media all and (max-width:480px){
+    .comments-area textarea{
+        height:100px;
+    }
+    .login input[type="submit"], .signup input[type="submit"] {
+        font-size: 14px;
+        width: 20%;
+    }
+    .mfp-close {
+        left: 0;
+    }
+    #small-dialog, #small-dialog2 {
+        max-width: 320px;
+    }
+
+}
+@media all and (max-width:320px){
+    .comments-area span.label,.comments-area span.text-field{
+        float:none;
+        width:100%;
+    }
+    .comments-area span{
+        padding-bottom:3px;
+    }
+    #small-dialog{
+        padding:15px;
+    }
+    .comments-area input[type="text"], .comments-area textarea{
+        width:92%;
+    }
+    .comments-area div{
+        padding:2px 0;
+    }
+    .mfp-content iframe{
+        width:100%;
+        min-height:250px;
+    }
+    .login input[type="submit"], .signup input[type="submit"] {
+        font-size: 12px;
+        width: 29%;
+    }
+    .signup input[type="text"] {
+        width: 90%;
+    }
+    .mfp-close {
+        top: -40px;
+    }
+} 

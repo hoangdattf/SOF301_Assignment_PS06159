@@ -1,0 +1,147 @@
+#fbody{
+    width:1135px;
+    height:340px;
+    background:#fff;
+    position:absolute;
+
+    border-bottom-left-radius:5px;
+    border-bottom-right-radius:5px;
+    box-shadow:0 0 2px #d3d6db;
+    margin-top: -90px;
+}
+#fbpic{
+    border:4px solid #fff;
+    border-radius:3px;
+    box-shadow:0 0 3px #bfb9b9;
+    position:relative;
+    top:0px;
+    left:1px;
+    width: 1135px;
+    height: 340px;  
+    cursor:pointer;
+}
+
+
+
+#fbnick{
+    position:absolute;
+    top:230px;
+    font-size:23px;
+    font-weight:bolder;
+    font-family:'arial';
+    text-shadow: 0 0 3px rgba(0,0,0,.8);
+    color:#fff;
+    left:215px;
+    cursor:pointer;
+}
+.fbdaidien{
+    z-index: 10;
+    position: absolute;
+    top: 90px;
+    left: 35px;
+    height: 223px;
+    width: 235px;
+}
+#fbactinfo{
+    color:#4b4f56;
+    text-decoration:none;
+    position:relative;
+    top:-150px;
+    right:-680px;
+    display:block;
+    background:#f6f7f9;
+    width:160px;
+    text-align:center;
+    padding:7px 3px 7px 3px;
+    font-size:13px;
+    font-family:'arial';
+    font-weight:bolder;
+    border-radius:2px;
+    border-color: rgba(0, 0, 0, .4);
+    background-clip: padding-box;
+}
+#fbactinfo2{
+    color:#4b4f56;
+    text-decoration:none;
+    position:relative;
+    top:-183px;
+    right:-915px;
+    display:block;
+    background:#f6f7f9;
+    width:160px;
+    text-align:center;
+    padding:7px 3px 7px 3px;
+    font-size:13px;
+    font-family:'arial';
+    font-weight:bolder;
+    border-radius:2px;
+    border-color: rgba(0, 0, 0, .4);
+    background-clip: padding-box;
+}
+#fbactinfo3{
+    color:#4b4f56;
+    text-decoration:none;
+    position:relative;
+    top:-215px;
+    right:-460px;
+    display:block;
+    background:#f6f7f9;
+    width:160px;
+    text-align:center;
+    padding:7px 3px 7px 3px;
+    font-size:13px;
+    font-family:'arial';
+    font-weight:bolder;
+    border-radius:2px;
+    border-color: rgba(0, 0, 0, .4);
+    background-clip: padding-box;
+}
+#fbbtab{
+    background:#eae2e2;
+    width:1136px;
+    height:50px;
+    position:relative;
+    top:-54px;
+    left:0px;
+}
+.fbbot{
+    width:100px;
+    background:#fff;
+    display:inline-block;
+    line-height:50px;
+    text-align:center;
+    font-family:'arial';
+    font-weight:bolder;
+    font-size:14px;
+    color:#365899;
+    border-left:1px solid #eae2e2;
+    cursor:pointer;
+}
+.fbbot:nth-of-type(4), .fbbot:nth-of-type(5){
+    width:214px!important;
+}
+.fbbot:nth-of-type(3){
+    height:50px!important;
+}
+.fbbot:nth-of-type(1){
+    color:#4b4f56;
+    cursor:default!important;
+    height:50px;
+}
+.fbbot span{
+    color:#89919c;
+    font-size:11px;
+    font-weight:lighter;
+}
+.pg-normal {
+    color: red;
+    font-weight: normal;
+    text-decoration: none;  
+    cursor: pointer;  
+}
+.pg-selected {
+    color: black;
+    font-weight: bold;      
+    text-decoration: underline;
+    cursor: pointer;
+}
